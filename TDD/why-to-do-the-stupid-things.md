@@ -1,0 +1,2 @@
+# Why to do the stupid things
+Even when you already know what to do it can be helpful because you'll address things at the right time. For instance I'm adding a subscription  but when I wrote the resource routes for it I forgot and made it singular instead of plural like the controller. This was something I was now able to catch immediately without having to bother to open up the browser and thereby hit the error as soon as it came up.
